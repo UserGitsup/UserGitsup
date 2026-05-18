@@ -41,41 +41,20 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=UserGitsup&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🚀 주요 프로젝트
 
 <div align="center">
 
 | 프로젝트 | 설명 | 기술 스택 | 기간 |
 |---------|------|-----------|------|
-| 🎓 [**RE-MERGE LMS**](https://github.com/UserGitsup/RE-MERGE-LMS) | Java Spring 기반 학사 관리 시스템<br/>강의 개설·학점 계산·역할별 세부 페이지 담당 | Java · Spring · MariaDB · JSP | 2026.04 ~ 2026.05 |
-| 🔧 _(프로젝트 추가)_ | _(설명)_ | _(스택)_ | _(기간)_ |
+| 🎓 [**RE-MERGE LMS**](https://github.com/UserGitsup/LMS-Project) | Java Spring 기반 학사 관리 시스템<br/>강의 개설·학점 계산·역할별 세부 페이지 담당 | Java · Spring · MariaDB · JSP | 2026.04 ~ 2026.05 |
+| 🔧 [**Project-FoodMap**](https://github.com/UserGitsup/Project-FoodMap) | Java Spring 기반 지역 식당 추천 사이트 | Java · Spring · SupaBase · React | 2026.05 ~ 진행중 |
 
 </div>
 
 ---
 
-## 📈 활동 그래프
 
 <div align="center">
-
-[![UserGitsup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UserGitsup&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UserGitsup.UserGitsup)
-
+  <sub>끊임없이 배우고, 더 나은 코드를 작성하기 위해 노력합니다 🌱</sub>
 </div>
