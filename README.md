@@ -49,6 +49,7 @@
 |---------|------|-----------|------|
 | 🎓 [**RE-MERGE LMS**](https://github.com/UserGitsup/LMS-Project) | Java Spring 기반 학사 관리 시스템<br/>강의 개설·학점 계산·역할별 세부 페이지 담당 | Java · Spring · MariaDB · JSP | 2026.04 ~ 2026.05 |
 | 🔧 [**Project-FoodMap**](https://github.com/UserGitsup/Project-FoodMap) | Java Spring 기반 지역 식당 추천 사이트 | Java · Spring · SupaBase · React | 2026.05 ~ 진행중 |
+| 🎓 [**B2B Project**](https://github.com/UserGitsup/kbeauty-b2b) | Java Spring 기반 B2B 중개 플랫폼<br/>관리자 페이지 및 기능 담당 | Java · Spring · MariaDB · JSP | 2026.06 ~ 진행중 |
 
 </div>
 
