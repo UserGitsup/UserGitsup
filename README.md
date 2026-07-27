@@ -7,8 +7,7 @@
 사용자 경험을 고민하는 개발자입니다.<br/>
 백엔드의 견고함과 프론트엔드의 감각을 함께 추구합니다.
 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Blog](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=tistory&logoColor=white)](https://your-blog.com)
+[![Naver](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rkdx123@naver.com)
 
 </div>
 
